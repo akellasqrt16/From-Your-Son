@@ -8,9 +8,7 @@
     </style>
   </head>
   <body>
-    <style>
-      background-color: cyan;
-    </style>
+    background-color: cyan;
     <h1 style="color:blue;">Happy Mothers Day Mom!</h1> 
     <h2>Thank you for everything you've done for me</h2>
   </body>
